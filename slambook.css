@@ -1,0 +1,195 @@
+*{
+
+		margin:0px ;
+		padding:0px;
+		box-sizing: border-box;
+		font-family: sans-serif;
+}
+
+
+.imiyds {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width:200 ;
+}
+body{
+	background: black;
+
+
+
+}
+h1{
+	color: #ffa31a;
+	margin-left: 20px;
+
+
+}
+
+.burdir {
+	height: 800px;
+	width: 100%;
+		background: #494949;
+	opacity: 1;
+		border-radius: 15px;
+		color: #fff;
+
+
+}
+.burdir3 {
+	height: 500px;
+	width: 20%;
+	background: #494949;
+	opacity: 1;
+	border-radius: 15px;
+	color: #fff;
+	float: left;
+	border-style: solid;
+	align-items: center;
+		justify-content: center;
+	margin-left: 15px;
+
+		
+}
+
+.burdir3 img{
+		width: 300px;
+		height: 300px;
+		display: block;
+		margin: 15px auto;
+
+	
+}
+.burdir3 input{
+	margin: auto;
+
+font-size: 15px;
+display: none;
+
+
+}
+.burdir3 label {
+	display: block;
+	width: 200px;
+	background: #ffa31a;
+	padding: 12px;
+	margin: 5px auto;
+	border-radius: 2px;
+	cursor: pointer;
+	text-align: center;
+	color: black;
+}
+
+
+.burdir2 {
+	height: 500px;
+	width: 39%;
+		background: #494949;
+	opacity: 1;
+		border-radius: 15px;
+		color: #fff;
+		border-style: solid;
+	margin-left: 400px;
+		
+
+}
+
+.burdir2 label{
+	display: block;
+	font-size: 40px;
+	
+		margin-top: 10px ;
+		margin-left: 30px;
+	color: #ffa31a;	
+}
+
+
+
+
+.burdir2 input{
+
+	display: block;
+	width: 90%;
+	height: 50px;
+	color: #fff;
+	background: transparent;
+	border:none;
+	outline: none;
+	border: 2px solid;
+	border-radius: 30px;
+	font-size: 25px;
+	margin-top: 10px ;
+	margin-left: 20px;
+	
+
+
+}
+.burdir2 select{
+	margin: auto 30px;
+	height: 40px;
+	background: #ffa31a;
+	text-align: center;
+}
+.burdir2 button {
+	margin: 30px 30px;
+	height: 40px;
+	width: 100px;
+	background:#ffa31a ;
+
+
+
+}
+.burdir4 {
+	height: 500px;
+	width: 39%;
+		background: #494949;
+	opacity: 1;
+		border-radius: 15px;
+		color: #fff;
+		border-style: solid;
+	margin-top: -500px;
+	margin-left: 1147px;
+}
+
+.burdir4 label{
+	display: block;
+	font-size: 40px;
+	
+		margin-top: 10px ;
+		margin-left: 30px;
+	color: #ffa31a;	
+}
+.burdir4 input {
+	margin-left: 10px;
+	height: 20px;
+	width: 20px;
+
+
+}
+.burdir4 input{
+
+	display: block;
+	width: 90%;
+	height: 50px;
+	color: #fff;
+	background: transparent;
+	border:none;
+	outline: none;
+	border: 2px solid;
+	border-radius: 30px;
+	font-size: 25px;
+	margin-top: 10px ;
+	margin-left: 20px;
+}
+.burdir4 select{
+	margin: auto 30px;
+	height: 40px;
+	background: #ffa31a;
+	text-align: center;
+}
+.burdir4 button {
+	margin: 30px 30px;
+	height: 40px;
+	width: 100px;
+	background:#ffa31a ;
+}
